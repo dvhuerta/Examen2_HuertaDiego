@@ -61,6 +61,21 @@ $result = $moduloService->findAll();
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
                 <div class="sidebar-brand-text mx-3">Examen</div>
             </a>
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="gestFuncionalidades.php">
+                <div class="sidebar-brand-text mx-3">Gestión Funcionalidades</div>
+            </a>
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="gestModuloRol.php">
+                <div class="sidebar-brand-text mx-3">Gestión Módulo por rol</div>
+            </a>
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="crearModulo.php">
+                <div class="sidebar-brand-text mx-3">Crear Módulo</div>
+            </a>
             <hr class="sidebar-divider my-0">
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
