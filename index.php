@@ -119,7 +119,7 @@ $result = $moduloService->findAll();
                         <!-- CAMPOS PARA NUEVO MODULO -->
                         <table border="0">
                             <tr>
-                                <td colspan=2><strong>Nuevo Cliente</strong></td>
+                                <td colspan=2><strong>Nuevo Modulo</strong></td>
                             </tr>
                             <tr>
                                 <td><label id="lblModulo" for="codModulo">Código del Módulo: </label></td>
